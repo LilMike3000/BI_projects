@@ -1,6 +1,6 @@
 # BI_projects
 
-Дашборды, реализованные в системе Tableau:
+Дашборды, реализованные в системе Tableau:  
 Продажи по месяцам - https://public.tableau.com/app/profile/mikhail.korolkov/viz/FirstDashboard_17000444921520/MainDashboard  
 Самые популярные работодатели на HH - https://public.tableau.com/app/profile/mikhail.korolkov/viz/HHDashborad/Dashboard12 (todo for aesthetics)
 
