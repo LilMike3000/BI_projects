@@ -1,4 +1,5 @@
 # BI_projects
+BI-проекты, выполненные в рамках обучения на Karpov.Cources  
 
 Дашборды, реализованные в системе Tableau:  
 Продажи по месяцам - https://public.tableau.com/app/profile/mikhail.korolkov/viz/FirstDashboard_17000444921520/MainDashboard  
